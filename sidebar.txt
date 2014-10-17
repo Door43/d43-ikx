@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ikx:home|Door43 (ikx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ikx|d43-ikx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ikx/archive/master.zip|d43-ikx.zip]]
+
+**Recent Changes**
+{{changes>ns = ikx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ikx|Ethnologue data]]
+
